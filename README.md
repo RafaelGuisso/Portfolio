@@ -19,10 +19,12 @@ O arquivo "database_query" utiliza o esquema gerado e insere dados na base de da
 
 ![image](https://github.com/RafaelGuisso/Portfolio/assets/108840079/31299069-6eab-4c5d-a353-b2077e914564)
 
-k-NN (k-Nearest Neighbors)
+KNN (k-Nearest Neighbors)
+
 Projeto de k-Nearest Neighbors, onde técnicas de machine learning são aplicadas para preencher informações incompletas em um banco de dados.
 
 Parametrização
+
 Desenvolvido durante meu estágio, este projeto utiliza pandas e numpy para acessar um banco de dados de produção e otimizar equações.
 
 Fique à vontade para explorar os códigos e projetos aqui apresentados. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato. Obrigado por visitar meu portfólio!
